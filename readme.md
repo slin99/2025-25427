@@ -1,4 +1,4 @@
-# CVE-2025-25427 XSS in TP-Link TL-WR841N Upnp page
+## CVE-2025-25427 XSS in TP-Link TL-WR841N Upnp page
 
 Repo with exploit for the xss in doUpate of the upnp page  (upnp.htm) of the TP-Link TL-WR841N router.
 The upnp page displays upnp port mappings.  The port mappings are dynamically loaded using javascript.
